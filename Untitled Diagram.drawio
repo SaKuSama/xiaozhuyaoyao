@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T08:21:56.977Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="cXtkJi0SoxlPG2YI0PoN" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-14T08:24:24.701Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="h_9uS6b9OC6jktNOfs0q" version="14.1.9" type="github">
   <diagram id="OIG68vHDaFOSMcg0Ms7n" name="第 1 页">
     <mxGraphModel dx="1977" dy="2171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -122,8 +122,8 @@
         <mxCell id="D8_L2zUrPzB2zXX9I7Gj-57" value="现场采摘及发货责任人：王明辉" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="490" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="D8_L2zUrPzB2zXX9I7Gj-58" value="进入商城历史订单信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="630" width="140" height="20" as="geometry" />
+        <mxCell id="D8_L2zUrPzB2zXX9I7Gj-58" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="630" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
